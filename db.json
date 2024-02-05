@@ -100,5 +100,37 @@
             "wifi": true,
             "laundry": true
         }
+    ],
+    "posts": [
+        {
+            "body": "Sunshine~",
+            "author": "George",
+            "date": "Feb 5, 2024 11:43 AM",
+            "id": "0.9154998087731046"
+        },
+        {
+            "body": "WALRUS@!",
+            "author": "I am the walrus",
+            "date": "Jan 29, 2024 4:42 PM",
+            "id": "0.2244525428430919"
+        },
+        {
+            "body": "HAHAHA",
+            "author": "Ringo",
+            "date": "Jan 29, 2024 4:21 PM",
+            "id": "0.7782740929150964"
+        },
+        {
+            "body": "Imagine all the people",
+            "author": "John",
+            "date": "Jan 29, 2024 4:21 PM",
+            "id": "0.20461687059723332"
+        },
+        {
+            "body": "Hello Goodbye",
+            "author": "Paul",
+            "date": "Jan 29, 2024 4:17 PM",
+            "id": "0.32797921013532805"
+        }
     ]
 }
